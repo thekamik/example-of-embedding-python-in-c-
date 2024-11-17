@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Add an executable target
 add_executable(main
-    src/main.cpp  # Adjust the path if needed
+    src/main.cpp
 )
 
 # Include directories
