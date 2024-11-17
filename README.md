@@ -30,6 +30,7 @@ This project serves as a practical example for developers interested in integrat
 ### Prerequisites
 
 - **C++ Compiler**: A compiler that supports C++17 (for `std::filesystem`), such as minGW
+- **Python**: Version 3.13.0.
 - **CMake**: Version 3.10 or higher.
 
 ### Project Structure
